@@ -74,7 +74,19 @@
     </types>
     <types>
         <members>*</members>
+        <name>HomePageComponent</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>HomePageLayout</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>Layout</name>
+    </types>
+    <types>
+        <members>unfiled$public</members>
+        <name>Report</name>
     </types>
     <types>
         <members>*</members>
