@@ -30,10 +30,6 @@
                 <behavior>Edit</behavior>
                 <field>Description__c</field>
             </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Responsible_Person__c</field>
-            </layoutItems>
         </layoutColumns>
         <style>TwoColumnsTopToBottom</style>
     </layoutSections>
@@ -72,7 +68,6 @@
     </layoutSections>
     <relatedLists>
         <fields>NAME</fields>
-        <fields>Employee__c</fields>
         <fields>Start_Date__c</fields>
         <fields>End_Date__c</fields>
         <relatedList>Activity__c.Project__c</relatedList>
