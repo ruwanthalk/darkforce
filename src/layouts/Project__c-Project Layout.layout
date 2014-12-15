@@ -66,8 +66,11 @@
         <layoutColumns/>
         <style>CustomLinks</style>
     </layoutSections>
+    <quickActionList/>
     <relatedLists>
         <fields>NAME</fields>
+        <fields>Name__c</fields>
+        <fields>Status__c</fields>
         <fields>Start_Date__c</fields>
         <fields>End_Date__c</fields>
         <relatedList>Activity__c.Project__c</relatedList>
